@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on a science fiction strategy game with a branching story line and resource management system.<br>🔎 I’m currently learning C++ to widen my object-oriented programming knowledge.<br>💡My first coding project was a Pokemon-style battling game<br>❔ Ask me about front-end development!
+🚀 I’m currently working on an idea notetaking app to turn your ideas into plans!.<br>🔎 I’m currently learning C++ to widen my object-oriented programming knowledge.<br>💡My first coding project was a Pokemon-style battling game<br>❔ Ask me about front-end development!
 
 
 ## 🌐 Socials:
